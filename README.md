@@ -3,7 +3,7 @@
  <h2 align="center">Perfil</h2>
 </p>
 
-### Holaaa 👋, soy [Tomas Ismael Mendoza](https://anandmainali.com.np](https://github.com/leopoldo109)
+### Holaaa 👋, soy [Tomas Ismael Mendoza](https://github.com/leopoldo109)
 > Estudiando licenciatura en informatica [UNQ](http://www.unq.edu.ar/carreras/58-licenciatura-en-inform%C3%A1tica.php)
 
 
