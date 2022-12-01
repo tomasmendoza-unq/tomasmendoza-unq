@@ -55,7 +55,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tomas-ismael-mendoza-30b141258/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@TomasMendoza-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/tomas___mendoza/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Instagram-tomas____mendoza-blue?style=flat&logo=instagram"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tm1453766@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-tm1453766@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
