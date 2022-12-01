@@ -50,7 +50,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leopoldo109&theme=tokyonight&repo=agro-forum&show_owner=true)](https://github.com/leopoldo109/Agro-forum)
 
-<h3> 🤝🏻 Formas de Contactarnos <img width="90px" src="https://static.wikia.nocookie.net/undertale/images/b/bc/Tumblr_nvujj3gQTf1r9xrggo2_250.gif/revision/latest/scale-to-width-down/194?cb=20160220214156&path-prefix=es" align="center"> </h3>
+<h3> 🤝🏻 Formas de Contactarme <img width="90px" src="https://static.wikia.nocookie.net/undertale/images/b/bc/Tumblr_nvujj3gQTf1r9xrggo2_250.gif/revision/latest/scale-to-width-down/194?cb=20160220214156&path-prefix=es" align="center"> </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tomas-ismael-mendoza-30b141258/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@TomasMendoza-blue?style=flat&logo=linkedin"></a>
