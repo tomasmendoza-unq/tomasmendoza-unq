@@ -24,7 +24,7 @@
 - [x] **Desarrollo de APIs en Java con Spring Boot en TodoCode**  
 - [x] **Programación Orientada a Objetos con Java en TodoCode**  
 - [x] **Introducción a las Bases de Datos (Con MySQL) en TodoCode**   
-- [] **Seguridad con SPRING SECURITY en TodoCode** 
+- [ ] **Seguridad con SPRING SECURITY en TodoCode** 
 
 
 
