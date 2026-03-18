@@ -30,9 +30,7 @@
 
 ## Algunos de mis proyectos mas destacados
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomasmendoza-unq&theme=tokyonight&repo=-2-de-carisma&show_owner=true)](https://github.com/tomasmendoza-unq/-2-de-carisma)
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomasmendoza-unq&theme=tokyonight&repo=Tempus&show_owner=true)](https://github.com/tomasmendoza-unq/Tempus)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tomasmendoza-unq&theme=tokyonight&repo=medium-weekly&show_owner=true)](https://github.com/tomasmendoza-unq/medium-weekly)
 
